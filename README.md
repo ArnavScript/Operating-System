@@ -48,6 +48,12 @@ Check out the [GFG-Practice-Questions.md](./GFG-Practice-Questions.md) file for:
 
 - 📺 [Love Babbar OS Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - 🧠 [GFG OS Topicwise Questions](https://practice.geeksforgeeks.org/explore/?category%5B%5D=Operating%20Systems&page=1)
+-  📝 [Handwritten Notes by Aryan Nautiyal](https://github.com/AryanNautiyal/OS)
+
+-  ### 📝 Handwritten Notes Reference
+- [Aryan Nautiyal OS Notes (GitHub)](https://github.com/AryanNautiyal/OS)
+- Highly recommended for exam revision and visual understanding
+
 
 ## 🙌 Contributions
 
