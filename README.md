@@ -40,7 +40,7 @@ Check out the [GFG-Practice-Questions.md](./GFG-Practice-Questions.md) file for:
 
 ## 🧾 Learning Goals
 
-- Build strong core OS concepts for interviews, OAs, and GATE.
+- Build strong core OS concepts for interviews and OAs .
 - Regularly revise from structured notes.
 - Solve 100+ good conceptual OS questions from GFG and other sources.
 
