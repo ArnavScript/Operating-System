@@ -31,7 +31,9 @@ I’m not focusing on coding implementations here, but rather on understanding t
 ## 🧠 GeeksforGeeks Practice
 
 I'm regularly solving conceptual and multiple-choice questions from GeeksforGeeks.  
-Check out the [GFG-Practice-Questions.md](./GFG-Practice-Questions.md) file for:
+Check out the Operating System Interview Questions - GeeksforGeeks (
+https://share.google/BOhCF02X5H9iCyNi5:
+)
 
 - ✅ Questions solved
 - 🔗 Links to each problem
@@ -47,7 +49,7 @@ Check out the [GFG-Practice-Questions.md](./GFG-Practice-Questions.md) file for:
 - ## 📌 Useful Resources
 
 - 📺 [Love Babbar OS Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
-- 🧠 [GFG OS Topicwise Questions](https://practice.geeksforgeeks.org/explore/?category%5B%5D=Operating%20Systems&page=1)
+- 🧠 [GFG OS Topicwise Questions](Operating System Interview Questions - GeeksforGeeks https://share.google/BOhCF02X5H9iCyNi5)
 -  📝 [Handwritten Notes by Aryan Nautiyal](https://github.com/AryanNautiyal/OS)
 
 -  ### 📝 Handwritten Notes Reference
